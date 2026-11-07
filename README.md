@@ -1,2 +1,0 @@
-# ArtShop
-Art Website
